@@ -10,5 +10,10 @@ public class MainClass {
 		System.out.println(i);
 
 	}
+	
+	public static void showResult(){
+		
+		System.out.println("Result Shown");
+	}
 
 }
