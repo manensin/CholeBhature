@@ -6,7 +6,8 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		System.out.println("My First GIT Commit");
 		System.out.println("New COmmit");
-		
+		int i = 5;
+		System.out.println(i);
 
 	}
 
