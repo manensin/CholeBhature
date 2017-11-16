@@ -11,9 +11,15 @@ public class MainClass {
 
 	}
 	
-	public static void showResult(){
+	public static void showComments(){
 		
 		System.out.println("Result Shown");
 	}
+	
+	public static void addComments(){
+		
+		System.out.println("Adding Comments");
+	}
+	
 
 }
