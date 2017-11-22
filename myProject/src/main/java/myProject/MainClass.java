@@ -21,5 +21,10 @@ public class MainClass {
 		System.out.println("Adding Comments ");
 	}
 	
+	
+	public static void removeComments(){
+		
+		System.out.println("Removing Comments ");
+	}
 
 }
