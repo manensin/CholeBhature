@@ -26,5 +26,10 @@ public class MainClass {
 		
 		System.out.println("Removing Comments ");
 	}
+	
+	public static void editComments(){
+		
+		System.out.println("editing Comments ");
+	}
 
 }
